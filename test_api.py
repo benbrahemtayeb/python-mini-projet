@@ -1,4 +1,3 @@
-"""Étape 5 : tests unitaires + intégration.   Lancer :  pytest -v"""
 import io
 from pathlib import Path
 

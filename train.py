@@ -1,8 +1,3 @@
-"""Étape 1 : entraînement du classifieur texte + sauvegarde des artefacts.
-
-Usage :  python train.py             (entraîne sur textes.csv uniquement)
-         python train.py --augment   (ajoute aussi les textes de référence OCR/ASR)
-"""
 import argparse
 from pathlib import Path
 

@@ -1,4 +1,3 @@
-"""Classifieur de sentiment textuel (commun aux 3 modalités)."""
 from pathlib import Path
 from typing import Dict
 

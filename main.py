@@ -1,6 +1,4 @@
-"""Étape 3 : API REST FastAPI.
-
-Lancer :  uvicorn main:app --reload
+"""Lancer :  uvicorn main:app --reload
 Docs   :  http://127.0.0.1:8000/docs
 """
 import io

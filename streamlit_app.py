@@ -1,7 +1,3 @@
-"""Étape 4 (option B) : mini-app Streamlit qui interroge l'API FastAPI.
-
-Lancer (API déjà démarrée) :  streamlit run streamlit_app.py
-"""
 import requests
 import streamlit as st
 

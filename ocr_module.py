@@ -1,4 +1,3 @@
-"""Module Image : OCR avec pytesseract + Pillow."""
 import io
 import os
 import shutil

@@ -1,8 +1,3 @@
-"""Évalue la chaîne complète OCR/ASR -> classifieur sur le dataset fourni.
-
-Usage :  python evaluate_multimodal.py            (images + audios)
-         python evaluate_multimodal.py --no-audio (images seulement, plus rapide)
-"""
 import argparse
 import difflib
 from pathlib import Path

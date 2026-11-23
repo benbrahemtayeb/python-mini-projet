@@ -1,8 +1,3 @@
-"""Module Audio : transcription (ASR) avec faster-whisper.
-
-faster-whisper = Whisper d'OpenAI réimplémenté (plus léger, lit mp3/wav sans
-installer ffmpeg). Le modèle est téléchargé automatiquement au 1er lancement.
-"""
 import os
 import tempfile
 

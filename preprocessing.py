@@ -1,4 +1,3 @@
-"""Nettoyage minimal du texte (français)."""
 import re
 import unicodedata
 

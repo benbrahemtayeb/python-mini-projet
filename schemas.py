@@ -1,4 +1,3 @@
-"""Schémas Pydantic : entrées, sorties et validation des fichiers."""
 from pathlib import Path
 from typing import ClassVar, Dict, Literal, Optional, Set
 
